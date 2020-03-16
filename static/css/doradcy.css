@@ -73,7 +73,7 @@ a.white-link:hover {
 
 
 .dh-red {
-    background: #E53935;
+    background: #941f1d;
 }
 
 .dh-red-text {
@@ -518,25 +518,25 @@ footer p {
     background-repeat: no-repeat !important;
     background-position: center center !important;
     background-size: cover !important;
-    height: 600px;
+    height: 850px;
 }     
 @media only screen and (min-device-width: 800.1px) and (max-device-width: 1080px) {
     #about-photo {
-        height: 500px;
+        height: 550px;
     }  
 }        
 @media only screen and (min-device-width: 600.1px) and (max-device-width: 800px) {
     #about-photo {
-        height: 400px;
+        height: 500px;
     }  
 }
 @media only screen and (min-device-width: 500.1px) and (max-device-width: 600px) {
     #about-photo {
-        height: 300px;
+        height: 420px;
     }  
 }
 @media only screen and (min-device-width: 100px) and (max-device-width: 500px) {
     #about-photo {
-        height: 200px;
+        height: 300px;
     }  
 }
